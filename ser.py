@@ -10,12 +10,12 @@ import datetime
 import numpy as np
 
 # Your Twilio Account SID and Auth Token
-TWILIO_ACCOUNT_SID = 'AC88c082c048e0764cc9c5d0a5a96312ec'
-TWILIO_AUTH_TOKEN = '2c620a31441942f4da43fbe6a57bf5ef'
+TWILIO_ACCOUNT_SID = ''
+TWILIO_AUTH_TOKEN = ''
 
 # Your Twilio phone number and the destination phone number
-TWILIO_PHONE_NUMBER = '+12762860929'
-DESTINATION_PHONE_NUMBER = '+916309133957'
+TWILIO_PHONE_NUMBER = ''
+DESTINATION_PHONE_NUMBER = ''
 
 # Load the reference image
 reference_image = cv2.imread('abc.jpg')
